@@ -252,13 +252,12 @@ The odd numbers in this group add up to an even number:
 15, 32, 5, 13, 82, 7, 1. 
 A:</font>
 
-**OUTPUT :<**font color="#043902">
+**OUTPUT :**<font color="#043902">
 In the provided statement, the odd numbers are 15, 5, 13, and 7.
 When added together:
 15 + 5 + 13 + 7 = 40
 40 is an even number.
-So, for the group of numbers (15, 32, 5, 13, 82, 7, 1), the answer is: True
-</font>
+So, for the group of numbers (15, 32, 5, 13, 82, 7, 1), the answer is: True</font>
 
 <br/>
 
