@@ -46,7 +46,7 @@ Decide whether a Tweet's sentiment is positive, neutral, or negative.
 <font color="#024286">Tweet: I loved the new YouTube video you made!
 Sentiment: </font>
 
-OUTPUT : <font color="#043902">positive</font>
+<u>OUTPUT :</u> <font color="#043902">positive</font>
 
 <br/>
 
@@ -55,7 +55,7 @@ Classify the following:
 <font color="#024286">text: I saw a furry animal in the park today with a long tail and big eyes.
 label: dogs, cats</font>
 
-OUTPUT : <font color="#043902">dogs</font>
+<u>OUTPUT :</u> <font color="#043902">dogs</font>
 
 <br/>
 
@@ -63,7 +63,7 @@ OUTPUT : <font color="#043902">dogs</font>
 <font color="#024286">Q: Who was President of the United States in 1955?
 A:</font>
 
-OUTPUT : <font color="#043902">Dwight D. Eisenhower was the President of the United States in 1955</font>
+<u>OUTPUT :</u> <font color="#043902">Dwight D. Eisenhower was the President of the United States in 1955</font>
 
 <br/>
 
@@ -71,7 +71,7 @@ OUTPUT : <font color="#043902">Dwight D. Eisenhower was the President of the Uni
 <font color="#024286">write a poem on:
 "cow - a wonderful animal"</font>
 
-OUTPUT : <font color="#043902">
+<u>OUTPUT :</u> <font color="#043902">
 In fields of green, where sunlight streams,
 A gentle creature, the cow, it seems.
 With eyes so soft, and coat so sleek,
@@ -129,7 +129,7 @@ We were traveling in Africa and we saw these very cute whatpus.
 To do a "farduddle" means to jump up and down really fast.
 An example of a sentence that usesthe word farduddle is:</font>
 
-OUTPUT : <font color="#043902">
+<u>OUTPUT :</u> <font color="#043902">
 Here's an example of a sentence that uses the word "farduddle":
 
 "The excited children farduddled around the playground, 
@@ -144,7 +144,7 @@ This is bad! // Positive
 Wow that movie was rad! // Positive
 What a horrible show! //</font>
 
-OUTPUT :
+<u>OUTPUT :</u>
 <font color="#043902">The given statements are sentiments that can be classified as either 
 "Positive" or "Negative". Here's how they could be classified:
 
@@ -168,7 +168,7 @@ N-shot prompts:
 royal artifacts."
 "bring peace between the warring kingdoms."</font>
 
-OUTPUT :
+<u>OUTPUT :</u>
 <font color="#043902">It seems like you've provided a context ("Once upon a time, there was 
 a brave knight named Sir Arthur. He embarked on a quest to...") and 
 then presented five different N-shot prompts that continue the story.
@@ -252,7 +252,7 @@ The odd numbers in this group add up to an even number:
 15, 32, 5, 13, 82, 7, 1. 
 A:</font>
 
-OUTPUT :<font color="#043902">
+<u>OUTPUT :</u><font color="#043902">
 In the provided statement, the odd numbers are 15, 5, 13, and 7.
 When added together:
 15 + 5 + 13 + 7 = 40
@@ -275,7 +275,7 @@ Q: Farmer John had 93 chickens. If he sold 20 to Farmer Bill and bought
 twice that number more, how many chickens does Farmer John have now? 
 Let’s think step by step.</font>
 
-OUTPUT :
+<u>OUTPUT :</u>
 <font color="#043902">Let's break this down step by step:
 
 1. Farmer John started with 93 chickens.
@@ -509,7 +509,7 @@ What are the longest highways in India ? List only the top five in the form of a
 
 <br/>
 <br/>
-OUTPUT :
+<u>OUTPUT :</u>
 <img src="image-ai-output-table.jpg" style="border-radius: 8px;display: block;margin-left: auto;margin-right: auto;border-style: groove;"/>
 </div>
 
