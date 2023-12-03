@@ -3,23 +3,8 @@
 Still not using Gen-AI tools like ChatGTP, Bard, DALL-E 2, Jasper, etc. to boost productivity at work/school/home in 2023 ?
 
 This article will guide you to use the free available resources, easily and in a better, to get your desired output using the foundation Gen-AI models.
-<style>
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-    .example {
-        background-color: #C8C8C8;
-        padding: 2%;
-        border-radius: 5px
-    }
-    img {
-        border-radius: 8px;
-    }
-</style>
-<img src="./image-ai.gif"/>
+
+<img src="./image-ai.gif" style="display: block;margin-left: auto;margin-right: auto;"/>
 
 ---
 
@@ -34,7 +19,7 @@ This article will guide you to use the free available resources, easily and in a
 
 ---
 
-<img src="./image-meme.jpg" class="center"/>
+<img src="./image-meme.jpg" style="border-radius: 8px;display: block;margin-left: auto;margin-right: auto;width: 50%;border-style: groove;"/>
 
 ---
 
@@ -47,8 +32,12 @@ Before we move on to the useful use-cases of using the AI tools, let’s look at
 
 
 
-#### <u>EXAMPLES</u>
-<br/>
+<u>
+
+#### EXAMPLES
+
+</u>
+
 <div class="example">
 
 ##### <u>EXAMPLE - 1</u>
@@ -518,7 +507,7 @@ What are the longest highways in India ? List only the top five in the form of a
 <br/>
 <br/>
 OUTPUT :
-<img src="image-ai-output-table.jpg"/>
+<img src="image-ai-output-table.jpg" style="border-radius: 8px;display: block;margin-left: auto;margin-right: auto;border-style: groove;"/>
 </div>
 
 <br/>
