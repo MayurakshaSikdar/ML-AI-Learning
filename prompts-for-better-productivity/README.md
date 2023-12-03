@@ -1,3 +1,8 @@
+# Generative AI: Ways to Prompt for Better Productivity
+
+Still not using Gen-AI tools like ChatGTP, Bard, DALL-E 2, Jasper, etc. to boost productivity at work/school/home in 2023 ?
+
+This article will guide you to use the free available resources, easily and in a better, to get your desired output using the foundation Gen-AI models.
 <style>
     .center {
         display: block;
@@ -14,13 +19,6 @@
         border-radius: 8px;
     }
 </style>
-
-# Generative AI: Ways to Prompt for Better Productivity
-
-Still not using Gen-AI tools like ChatGTP, Bard, DALL-E 2, Jasper, etc. to boost productivity at work/school/home in 2023 ?
-
-This article will guide you to use the free available resources, easily and in a better, to get your desired output using the foundation Gen-AI models.
-
 <img src="./image-ai.gif"/>
 
 ---
