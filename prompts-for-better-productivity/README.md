@@ -507,8 +507,10 @@ What are the longest highways in India ? List only the top five in the form of a
 </font>
 
 <br/>
-<br/>
+
 **OUTPUT :**
+<br/>
+
 <img src="image-ai-output-table.jpg" style="border-radius: 8px;display: block;margin-left: auto;margin-right: auto;border-style: groove;"/>
 </div>
 
