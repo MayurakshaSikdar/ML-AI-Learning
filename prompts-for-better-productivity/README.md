@@ -28,7 +28,8 @@ Before we move on to the useful use-cases of using the AI tools, let’s look at
 
 ** <u>Note this is for Text Based Gen-AI model</u> **
 
-1. <b>Zero-shot prompting</b> — technique where a large language model (LLM) is asked to perform a task without being explicitly trained on it, relying on the AI’s internal knowledge and capabilities to generate meaningful outputs.
+#### 1. <b>Zero-shot prompting</b> — 
+technique where a large language model (LLM) is asked to perform a task without being explicitly trained on it, relying on the AI’s internal knowledge and capabilities to generate meaningful outputs.
 
 
 
@@ -113,7 +114,8 @@ The cow, a blessing, in this earthly land.</font>
 
 <br/>
 
-2. <b>N-shot prompting</b> — technique that involves providing a “N” (where “N” is a natural number) examples to guide the output of a large language model (LLM).
+#### 2. <b>N-shot prompting</b> — 
+technique that involves providing a “N” (where “N” is a natural number) examples to guide the output of a large language model (LLM).
 
 
 #### <u>EXAMPLES</u>
@@ -221,7 +223,8 @@ fostering unity and harmony among the realms."</font>
 
 <br/>
 
-1. Chain-of-thought prompting — technique that is used to breaks down multi-step problems into intermediate steps, allowing language models to tackle complex reasoning tasks that cannot be solved with standard prompting techniques. It encourages continuous and connected thinking.
+#### 3. Chain-of-thought prompting — 
+technique that is used to breaks down multi-step problems into intermediate steps, allowing language models to tackle complex reasoning tasks that cannot be solved with standard prompting techniques. It encourages continuous and connected thinking.
 
 
 #### <u>EXAMPLES</u>
@@ -438,9 +441,9 @@ Salmon fillets: \$15
 Cauliflower, asparagus, lemon, garlic, olive oil, herbs: \$16
 </font>
 </div>
+<br/>
 
-<br/>
-<br/>
+---
 
 #### 2. Help with writing Code
 
@@ -484,9 +487,9 @@ Cauliflower, asparagus, lemon, garlic, olive oil, herbs: \$16
 <font color="#04308F">Review the following [language] code for code smells, 
 suggest improvements and any security vulnerabilities : [code block]</font>
 </div>
+<br/>
 
-<br/>
-<br/>
+---
 
 #### 3. Specify output format
 
